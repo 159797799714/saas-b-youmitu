@@ -1,0 +1,11 @@
+$li-bg: #F0F8FF;
+// 初始化导航菜单选中状态
+.is-active{
+  // background: #E6EBF4;
+  color: #444;
+}
+// 表格两边边框
+.el-table--fit{
+  border-right: 1px solid #E8E8E8;
+  border-left: 1px solid #E8E8E8;
+}
